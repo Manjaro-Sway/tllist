@@ -1,7 +1,8 @@
-# Whitelist
-!PKGBUILD
-!.SRCINFO
-
 # Blacklist
 *
 
+# Whitelist
+!PKGBUILD
+!.SRCINFO
+!.github
+!.github/**/*
